@@ -1,4 +1,4 @@
-# Read Clean Extension
+## Read Clean Extension
 
 Read Clean Extension is a browser extension that cleans and formats the content of the current tab, providing a distraction-free reading experience.
 
@@ -25,7 +25,7 @@ Read Clean Extension is a browser extension that cleans and formats the content 
 
 ![image](https://github.com/trisweta/read-clean-extension/assets/92795084/9a913a0f-bd8c-4c75-bc15-fc7beb450066)
 
-# Below is the demonstration on a news article 
+## Below is the demonstration on a news article 
 
 ![image](https://github.com/trisweta/read-clean-extension/assets/92795084/26d8422a-9b7e-4bbc-8436-aad2c9f89fb7)
 
